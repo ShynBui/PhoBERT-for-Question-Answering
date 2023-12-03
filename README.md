@@ -1,6 +1,6 @@
 # Table of Contents
 
-1. [How to Install and Run the Project](#How to Install and Run the Project)
+1. [How to Install and Run the Project](#How-to-Install-and-Run-the-Project)
 2. [How to Use the Project](#How to Use the Project)
 3. [Data for test](#Data for test)
 4. [File structure](#File structure)
