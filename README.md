@@ -1,10 +1,10 @@
 # Table of Contents
 
 1. [How to Install and Run the Project](#How-to-Install-and-Run-the-Project)
-2. [How to Use the Project](#How to Use the Project)
-3. [Data for test](#Data for test)
-4. [File structure](#File structure)
-5. [Dependencies, basic commands and libraries)](#Dependencies, basic commands and libraries)
+2. [How to Use the Project](#How-to-Use-the-Project)
+3. [Data for test](#Data-for-test)
+4. [File structure](#File-structure)
+5. [Dependencies, basic commands and libraries)](#Dependencies,-basic-commands-and-libraries)
 6. [Contribute](#Contribute)
 
    
