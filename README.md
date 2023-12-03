@@ -1,13 +1,15 @@
 # Table of Contents
 
 1. [How to Install and Run the Project](#How-to-Install-and-Run-the-Project)
-2. [How to Use the Project](#How-to-Use-the-Project)
-3. [Data for test](#Data-for-test)
+2. [System requirements] ()
+3. [Data for train]()
+4. [How to Use the Project](#How-to-Use-the-Project)
+5. [Data for test](#Data-for-test)
     - [Data 1](#Data-1)
     - [Data 2](#Data-2)
-5. [File structure](#File-structure)
-6. [Dependencies, basic commands and libraries)](#Dependencies,-basic-commands-and-libraries)
-7. [Contribute](#Contribute)
+6. [File structure](#File-structure)
+7. [Dependencies, basic commands and libraries)](#Dependencies,-basic-commands-and-libraries)
+8. [Contribute](#Contribute)
 
    
 # PhoBERT-for-Question-Answering
@@ -24,7 +26,10 @@ The project is a deep learning model based on PhoBERT architecture to find the a
         Download the Demo.ipynb file from the GitHub repository.
         Open the Demo.ipynb file in Google Colab.
         Run command boxes to perform actions in files.
-        
+
+# System requirements
+# Data for train
+# Result
 # How to Use the Project
 While you open the interface with gradio (When you run all command boxes).<br>
 You will have six tables to enter data. Respectively: 
