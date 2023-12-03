@@ -3,8 +3,8 @@
 1. [How to Install and Run the Project](#How-to-Install-and-Run-the-Project)
 2. [How to Use the Project](#How-to-Use-the-Project)
 3. [Data for test](#Data-for-test)
-    - [1](#1.)
-    - [2](#2.)
+    - [1](#Data-1)
+    - [2](#Data-2)
 5. [File structure](#File-structure)
 6. [Dependencies, basic commands and libraries)](#Dependencies,-basic-commands-and-libraries)
 7. [Contribute](#Contribute)
@@ -35,7 +35,7 @@ After filling in those six tables, please click the submit button below.
 The model will give you the correct answer in the "output" box.
 
 # Data for test
-# 1.
+# Data 1
 **Context:** <br>The same " xx " system is used for other parts of the testing sites in NV. The Original Rectangular Base from 6 to 10 miles is now part of the so-called " room ", which is the rectangular base from 23 to 25.3 miles of prohibited air space. The area is connected to the nts indoor road network, and the road road leading south to mi and west to flat. The North-East of the lake leads to a well-maintained, well-maintained lake c road that runs through the Humboldt Hills. Previously it was leading to mines in the Jerome Basin, but it has improved since its closure. The Zigzag road passes through security checkpoints, but the prohibited area around the base extends more to the east. After exit from the prohibited area, lake c road descends east to the valley of the tikaboo valley, passing through the entrances to the dirt roads of several cattle farms, before they meet with main road 375, on the " off-Earth highway ", to the south of the Rachel. <br>
 **Question:**<br> Where does the lake road lead to the lake?<br>
 **Answer A:** <br>South East<br>
@@ -44,7 +44,7 @@ The model will give you the correct answer in the "output" box.
 **Answer D:** <br>North East<br>
 **True answer: <br>D.North East**<br>
 
-# 2.
+# Data 2
 **Context:** <br>Lake C was used for artillery shelling and artillery training during world War II, but was then abandoned until April 1955, when it was selected by the team of the Luke as a perfect location to test the u-2 spy plane. The bottom of the lake provided the perfect tape that can do annoying aircraft tests, the height of the mountains of the valley of the grant valley and the ocean protects the test site from the eyes of prying and external intervention.<br>
 **Question:** <br>What made the test bar for the plane?<br>
 **Answer A:** <br>Moutant bottom<br>
