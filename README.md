@@ -1,5 +1,5 @@
 # PhoBERT-for-Question-Answering
-The project is a deep learning model based on PhoBERT architecture to find the answer to a Reading comprehension problem with Question answering task. The ultimate goal of this work is to create a solution that helps solve problems to answer Vietnamese Reading comprehension problems without any reasoning or knowledge. The model focuses on solving Reading comprehension questions of the easy and medium form (Factoid), suitable for students in grades six and seven. The model will help solve the self-explanatory WH question from a given text.
+The project is a deep learning model based on PhoBERT architecture to find the answer to a Reading comprehension problem with Question answering task. The ultimate goal of this work is to create a solution that helps solve problems to answer Vietnamese Reading comprehension problems without any reasoning or knowledge. The model focuses on solving Reading comprehension questions of the easy and medium form (Factoid), suitable for students in grades six and seven. The model will help solve the self-explanatory question from a given text.
 
 # How to Install and Run the Project
 # Option 1: 
