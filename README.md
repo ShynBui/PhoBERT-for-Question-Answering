@@ -37,6 +37,13 @@ seed: 42 <br>.
 optimizer: Adam with betas=(0.9,0.999) and epsilon=1e-08<br>.
 lr_scheduler_type: linear <br>.
 num_epochs: 3 <br>.
+
+## Framework versions
+Transformers 4.34.1
+Pytorch 2.1.0+cu118
+Datasets 2.14.5
+Tokenizers 0.14.1
+
 # Data for train
 # Result
 # How to Use the Project
