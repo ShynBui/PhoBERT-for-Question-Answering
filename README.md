@@ -28,15 +28,15 @@ The project is a deep learning model based on PhoBERT architecture to find the a
         Run command boxes to perform actions in files.
 
 # System requirements
-Training hyperparameters<br.
-The following hyperparameters were used during training: <br.
-learning_rate: 2e-05 <br.
-train_batch_size: 8 <br.
-eval_batch_size: 8 <br.
-seed: 42 <br.
-optimizer: Adam with betas=(0.9,0.999) and epsilon=1e-08<br.
-lr_scheduler_type: linear <br.
-num_epochs: 3 <br.
+Training hyperparameters<br>.
+The following hyperparameters were used during training: <br>.
+learning_rate: 2e-05 <br>.
+train_batch_size: 8 <br>.
+eval_batch_size: 8 <br>.
+seed: 42 <br>.
+optimizer: Adam with betas=(0.9,0.999) and epsilon=1e-08<br>.
+lr_scheduler_type: linear <br>.
+num_epochs: 3 <br>.
 # Data for train
 # Result
 # How to Use the Project
