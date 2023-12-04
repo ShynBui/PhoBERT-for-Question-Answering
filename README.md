@@ -45,6 +45,7 @@ Datasets 2.14.5 <br>
 Tokenizers 0.14.1<br>
 
 # Data for train
+The data used in this project is SquAD (translate into Vietnamese) and self combine by OU-Teams
 # Result
 # How to Use the Project
 While you open the interface with gradio (When you run all command boxes).<br>
